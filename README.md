@@ -1,4 +1,4 @@
-# Financial_analysis_and_chatbot
+# Financial analysis and chatbot
 A keyword-based financial chatbot built using Python and pandas, combined
 with exploratory data analysis in Jupyter Notebook.
 
